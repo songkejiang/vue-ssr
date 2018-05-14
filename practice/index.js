@@ -1,0 +1,2 @@
+// import './bind'
+import './extend'
